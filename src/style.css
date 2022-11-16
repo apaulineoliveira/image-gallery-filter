@@ -36,6 +36,10 @@ img {
     padding: 100px 0;
 }
 
+.gallery-item-inner {
+    box-shadow:         9px 7px 5px rgba(50, 50, 50, 0.35);    
+}
+
 .gallery .gallery-filter {
     padding: 0 15px;
     width: 100%;
