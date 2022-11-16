@@ -27,7 +27,12 @@ img {
     width: 100%;
     display: block;
     min-height: 100vh;
-    background-color: #2a2932;
+    background: linear-gradient(
+  90deg,
+  rgb(0, 0, 1) 0%,
+  rgb(202, 202, 202) 35%,
+  rgb(255, 255, 255) 100%
+);
     padding: 100px 0;
 }
 
@@ -76,7 +81,7 @@ img {
         opacity: 1;
     }
 }
-.gallery .gallery-item-hide{
+.gallery .gallery-item.hide{
     display: none;
 }
 
