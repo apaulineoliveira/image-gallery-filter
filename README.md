@@ -20,4 +20,6 @@ Filtro de seção de e-commerce | Feito em Javascript.
 <li>When it comes to the solution in Javascript, I mostly used DOM (Document Object Model) to make interactions with HTML and CSS, especially using <code>querySelector()</code>.</li>
 <li>By using <code>querySelector()</code> it was possible to "take" CSS style selectors and assign them to interactivity commands with javascript. As can be evidenced in the codes:<br></br>
    <code>const filterContainer = document.querySelector(".gallery-filter")</code> <br></br>
-   
+<code>filterContainer.querySelector(".active").classList.remove("active");</code><br></br></li>
+<li>The <code>forEach()</code> method was used to traverse the array and pass a callback function for each element of the same, together with the current value (item) and soon after, passing a conditional structure < code>if/else</code>.</li>
+</ul>   
