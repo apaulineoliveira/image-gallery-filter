@@ -10,3 +10,4 @@ Filtro de seção de e-commerce | Feito em Javascript.
   <code>filterContainer.querySelector(".active").classList.remove("active");</code><br></br></li>
 <li>Foi utilizado o método <code>forEach()</code> para percorrer o array e passar uma função de callback para cada elemento da mesma, juntamente ao valor atual (item) e logo em seguida, passada uma estrutura condicional <code>if/else</code>.</li>
 </ul>
+<h1>In English</h1>
