@@ -11,8 +11,11 @@ Filtro de seção de e-commerce | Feito em Javascript.
   <code>filterContainer.querySelector(".active").classList.remove("active");</code><br></br></li>
 <li>Foi utilizado o método <code>forEach()</code> para percorrer o array e passar uma função de callback para cada elemento da mesma, juntamente ao valor atual (item) e logo em seguida, passada uma estrutura condicional <code>if/else</code>.</li>
 </ul>
+<br></br>
+<br></br>
 
-<h1>In English</h1>
+
+<h1>Goal</h1>
 <p>The target of this project was to create an e-commerce gallery filter in which each section contained products from each sector.</p>
 <p>The project was based using HTML5, CSS3 and Javascript (pure).</p>
 
