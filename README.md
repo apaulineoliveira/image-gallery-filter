@@ -1,6 +1,5 @@
-# image-gallery-filter
-Filtro de seção de e-commerce | Feito em Javascript.
-# 🚩Objetivo
+<img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png" height="50" width="50"/>
+<h1 align="center">Objetivo</h1>
 <p>O intuito deste projeto foi criar um filtro de galeria de um e-commerce em que cada seção contivesse os produtos de cada setor.</p>
 <p>O projeto foi fundamentado utilizando HTML5, CSS3 e Javascript (puro).</p></h3>
 
