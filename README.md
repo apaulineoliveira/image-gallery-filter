@@ -11,6 +11,6 @@
 
 <p>Além disso, foi utilizado o método <code>forEach()</code> para percorrer o array e passar uma função de <b>callback</b> para cada elemento da mesma, juntamente ao valor atual (item), e logo em seguida, passada uma estrutura condicional <code>if/else</code>.</p> <br>
 
-<p>⚠️ Para visualizar a estilização da aplicação basta acessar a pasta acima intitulada "Visualização do projeto".</p>
+<p>⚠️ Para visualizar a estilização da aplicação basta acessar a pasta acima intitulada "Layout do projeto".</p>
 
 
